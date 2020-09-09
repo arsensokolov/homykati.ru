@@ -1,0 +1,5 @@
+{
+    "AppSyncApiName": "homykati",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false
+}
