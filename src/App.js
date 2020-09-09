@@ -95,7 +95,7 @@ const styles = {
   },
   button: {
     backgroundColor: 'black',
-    color: 'while',
+    color: 'white',
     outline: 'none',
     fontSize: 18,
     padding: '12px 0'
